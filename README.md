@@ -1,4 +1,4 @@
-<h2>Курс Business Intelligence,  модулю 'Python'. Step-project 2 </h2> 
+<h2>Курс Business Intelligence,  модулю "Python". Step-project 2 </h2> 
 <b>Step-project</b> — это проект, в котором студент на практике демонстрирует знания по пройденному материалу модуля Python'.
 <h4>Задания:</h4>
 <li>загрузка БД и EDA базы данных IKEA</li>
