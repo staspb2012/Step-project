@@ -1,3 +1,4 @@
+![](https://github.com/staspb2012/Educational_projects/blob/cfedb22ce7093f165325c548c237770eab2e490f/Python.svg.png)
 <h2>Курс Business Intelligence,  модулю "Python". Step-project 2 </h2> 
 <b>Step-project</b> — это проект, в котором студент на практике демонстрирует знания по пройденному материалу модуля 'Python'.
 <h4>Задания:</h4>
